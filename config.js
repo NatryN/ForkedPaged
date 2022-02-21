@@ -36,7 +36,7 @@ const CONFIG = {
   defaultLongitude: '-70.029167',
 
   // Autochange
-  autoChangeTheme: true,
+  autoChangeTheme: false,
 
   // Autochabge by OS
   changeThemeByOS: false,
@@ -85,7 +85,7 @@ const CONFIG = {
       id: '6',
       name: 'Odysee',
       icon: 'youtube',
-      link: 'https://odysee.com/',
+      link: 'https://www.youtube.com',
     },
   ],
 
@@ -105,8 +105,8 @@ const CONFIG = {
     {
       id: '3',
       name: 'bot',
-      icon: 'bot',
-      link: 'https://discord.com/app',
+      icon: 'facebook',
+      link: 'https://www.facebook.com',
     },
     {
       id: '4',
