@@ -39,13 +39,13 @@
 
 .darktheme {
   /* Dark Colors  */
-  --accent: #57a0d9; /* Hover color */
-  --background: #19171a; /* Background color */
-  --cards: #201e21; /* Cards color */
+  --accent: #8c977d; /* Hover color */
+  --background: #151515; /* Background color */
+  --cards: #2e2e2e; /* Cards color */
 
   /* Fonts Color */
-  --fg: #d8dee9; /* Foreground color */
-  --sfg: #2c292e; /* Secondary Foreground color */
+  --fg: #e8e3e3; /* Foreground color */
+  --sfg: #e8e3e3; /* Secondary Foreground color */
 
   /* Image background  */
   --imgcol: linear-gradient(
