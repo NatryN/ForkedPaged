@@ -116,9 +116,9 @@ const CONFIG = {
     },
     {
       id: '5',
-      name: 'Hashnode',
-      icon: 'pen-tool',
-      link: 'https://hashnode.com/',
+      name: 'Mail-Work',
+      icon: 'briefcase',
+      link: 'https://mail.google.com/mail/u/1/#inbox',
     },
     {
       id: '6',
