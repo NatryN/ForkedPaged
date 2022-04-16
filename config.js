@@ -85,7 +85,7 @@ const CONFIG = {
       id: '6',
       name: 'CeprePUC',
       icon: 'award',
-      link: 'https://ceprepucp.pucp.edu.pe/',
+      link: 'https://pucp.zoom.us/j/94720040182?pwd=NHJqYzNFZnFsSDJza05RWkQzYXhNdz09',
     },
   ],
 
@@ -112,7 +112,7 @@ const CONFIG = {
       id: '4',
       name: 'Reddit',
       icon: 'message-square',
-      link: 'https://ww.reddit.com/',
+      link: 'https://www.reddit.com/',
     },
     {
       id: '5',
